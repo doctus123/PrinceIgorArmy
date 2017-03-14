@@ -1,0 +1,14 @@
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\bin\Debug\PrinceIgor.exe.config
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\bin\Debug\PrinceIgor.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\bin\Debug\PrinceIgor.pdb
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\bin\Debug\MySql.Data.dll
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.csprojResolveAssemblyReference.cache
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.PrinceIgorForm.resources
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.Properties.Resources.resources
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.csproj.GenerateResource.Cache
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.exe
+c:\users\mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.pdb
+C:\Users\Mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.frmAddWarriorForm.resources
+C:\Users\Mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.frmAddContributionForm.resources
+C:\Users\Mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.frmAddSquadForm.resources
+C:\Users\Mariusz\documents\visual studio 2015\Projects\PrinceIgor\PrinceIgor\obj\Debug\PrinceIgor.frmAssignToSquadForm.resources
