@@ -1,0 +1,35 @@
+CREATE TABLE Warriors (
+    id_warriors int NOT NULL AUTO_INCREMENT,
+    name varchar(45) NOT NULL,
+    alive  BOOLEAN NOT NULL,
+    gold int, 
+    PRIMARY KEY (id_warriors)
+	UNIQUE (id_warriors)
+);
+
+CREATE TABLE Squads (
+    id_squads int NOT NULL AUTO_INCREMENT,
+    name varchar(45) NOT NULL,
+    PRIMARY KEY (id_squads)
+	UNIQUE (id_squads, name)
+);
+
+CREATE TABLE Warriors_membership (
+    id_warriors int NOT NULL,
+    id_squads int NOT NULL,
+    FOREIGN KEY (id_warriors) REFERENCES Warriors(id_warriors),
+    FOREIGN KEY (id_squads) REFERENCES Squads(id_squads)
+);
+
+CREATE TABLE Squads_membership (
+    id_master_squad int NOT NULL,
+    id_slave_squad int NOT NULL,
+    FOREIGN KEY (id_master_squad) REFERENCES Squads(id_squads),
+    FOREIGN KEY (id_slave_squad) REFERENCES Squads(id_squads)
+);
+
+CREATE TABLE Contributions (
+    id_warriors int NOT NULL,
+    contribution varchar(200) NOT NULL,
+    FOREIGN KEY (id_warriors) REFERENCES Warriors(id_warriors)	
+);
